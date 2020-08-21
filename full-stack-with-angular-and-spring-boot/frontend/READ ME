@@ -1,0 +1,14 @@
+decorator (@component) = annotations
+{{}} interpolation: property to view: 1 way 
+() event: event on the view to event on the component
+[()]: 2 way data binding :
+
+Angular directives: [()]
+
+
+https://github.com/in28minutes/full-stack-with-angular-and-spring-boot
+
+Internal site links in angular refer using routerLink. Not href
+
+
+

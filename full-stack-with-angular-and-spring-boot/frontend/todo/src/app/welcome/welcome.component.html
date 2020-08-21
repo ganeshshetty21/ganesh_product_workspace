@@ -1,0 +1,16 @@
+<h1>Welcome !</h1> 
+<div class="container">
+    Manage your <a routerLink="/todos" font-color="red">todos</a>
+</div>
+
+<div class="container">
+    <button (click)="getWelcomeMessageWithPath()" class="btn btn-success">Get Welcome</button>
+</div>
+
+<div class="container" *ngIf="welcomeMessage">
+    Welcome Message: {{welcomeMessage}}
+</div>
+
+<div class="container" *ngIf="errorMessage">
+    Error Message: {{errorMessage}}
+</div>

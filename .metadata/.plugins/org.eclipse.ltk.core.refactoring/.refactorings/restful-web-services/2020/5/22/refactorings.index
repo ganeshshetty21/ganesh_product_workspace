@@ -1,0 +1,5 @@
+1590436889900	Extract local variable 'id'
+1590438005623	Extract local variable 'uri'
+1590463953886	Copy compilation unit
+1590464027573	Rename type 'HelloWorldBean'
+1590464096334	Rename type 'HelloWorldController'

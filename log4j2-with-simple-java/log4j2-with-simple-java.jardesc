@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/product/test/log4j2-with-simple-java.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/log4j2-with-simple-java/log4j2-with-simple-java.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=log4j2-with-simple-java/src&lt;com.ganesh.logger{LoggerTestMain.java[LoggerTestMain" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=log4j2-with-simple-java/src&lt;com.ganesh.logger"/>
+        <javaElement handleIdentifier="=log4j2-with-simple-java/src&lt;lib"/>
+    </selectedElements>
+</jardesc>
